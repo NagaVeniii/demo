@@ -1,0 +1,199 @@
+
+.eco-farm-logo {
+    width: 90px;
+    height: 60px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://i.pinimg.com/564x/ed/89/65/ed89655fc33524e6265d835ed4041490.jpg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "italic";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.custom-outline-button {
+    color: white;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 28px;
+}
+
+.card-holder-background {
+    background-color: #c9cfa3;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.organic-food-section {
+    background-color: #f7e5c6;
+}
+
+.food-item-image {
+    border-radius: 16px;
+    width: 200px;
+    height: 320px;
+}
+
+.food-card-title {
+    color: #323f4b;
+    font-family: "papyrus";
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+
+.food-item-card {
+    border-radius: 16px;
+    width: 300px;
+    height: 700px;
+    background-color: white;
+    border: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+
+.view-product-button {
+    color: white;
+    background-color: #4ecf8a;
+    width: 130px;
+    height: 35px;
+    border-width: 0;
+    border-radius: 28px;
+    margin-right: 10px;
+}
+
+
+.non-gmo-section-bg-container {
+    background-image: url("https://i.pinimg.com/564x/50/2e/85/502e8562789b8c897fa6d63df6ccb538.jpg");
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;
+}
+
+
+
+.whyorg-card {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    width: 300px;
+    height: 330px;
+}
+
+.whyorg-section {
+    background-color: #f7eddc;
+}
+
+.whyorg-card-image {
+    width: 50px;
+    height: 50px;
+}
+
+.whyorg-card-title {
+    color: #323f4b;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: papyrus;
+}
+
+.whyorg-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+
+.footer-section {
+    background-image: url("https://i.pinimg.com/564x/6b/9f/e8/6b9fe8b6038e3682ef96ba061a10d411.jpg");
+    background-size: cover;
+    align-content: space-around;
+}
+
+.card-container1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-cards {
+    height: 350px;
+    width: 250px;
+    text-align: left;
+    margin: 20px;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.footer-card-header {
+    color: white;
+    font-size: 20px;
+}
+
+.footer-card-para {
+    color: white;
+}
+
+.footer-view-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.footer-placeholder {
+    background-color: transparent;
+
+}
+
+.mail-container {
+    height: 40px;
+    width: 50px;
+    margin-left: 80px;
+}
+
+.icon {
+    color: #0f0f0f;
+    font-size: 25px;
+}
