@@ -1,0 +1,249 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-color: white;
+    height: 300px;
+    background-size: cover;
+    text-align: left;
+    margin: 10px;
+    margin-top: 100px;
+}
+
+.banner-bg-container2 {
+    background-color: #eddbda;
+    height: 400px;
+    background-size: cover;
+    text-align: left;
+    margin: 10px;
+    margin-top: 100px;
+    padding-top:70px;
+}
+
+.banner-image {
+    margin: 10px;
+    width:400px ;
+    height:440px" 
+}
+
+.text-container {
+    margin: 10px;
+    padding: 10px;
+    height: 50vh;
+    width: 50vw;
+}
+
+.banner-heading {
+    color: black;
+    font-family: "Serif";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner-heading2 {
+    color: black;
+    font-family: "Serif";
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.banner-caption {
+    color: black;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.custom-outline-button {
+    color: white;
+    background-color: red;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 2px #e8aec4;
+}
+
+.card-holder-background {
+    background-color: #c9cfa3;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.product-container {
+    text-align: center;
+    font-family: Georgia;
+    margin-bottom: 30px;
+    text-decoration: wavy;
+    text-decoration-color: red;
+}
+
+.product-container-section {
+    background-color: white;
+}
+
+.ps-item-image {
+    width: 100px;
+    height: 100px;
+}
+
+.ps-card-title {
+    color: red;
+    font-family: "Times New Roman";
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+
+.ps-item-card {
+
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    padding: 10px;
+}
+
+.readmore-button {
+    color: white;
+    background-color: red;
+    width: 130px;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+
+
+
+.mobilespeaclist-section {
+    background-color: white;
+    text-align: center;
+}
+
+.mob-spl-card-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+}
+
+.mob-spl-card {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    width: 240px;
+    height: 330px;
+}
+
+.mob-spl-card-title {
+    color: red;
+    font-size: 12px;
+    font-weight: 300;
+    font-family: Roboto;
+}
+
+.mob-spl-card-description {
+    color: black;
+    font-family: "italic";
+    font-size: 22px;
+}
+
+
+.footer-section {
+    background-color: white;
+    background-size: cover;
+    align-content: space-around;
+}
+
+.copy-right {
+   height: 50px;
+   width: 100vw;
+   background-color: red;
+   background-size: cover;
+   color: white;
+   text-align: center;
+   padding: 10px;
+}
+
+.footer-cards {
+    height: 200px;
+    width: 250px;
+    text-align: left;
+    margin: 20px;
+    padding: 10px;
+    background-color: transparent;
+}
+
+
+
+.footer-card-header {
+    color: black;
+    font-size: 20px;
+    font-family: "sans-serif";
+    font-weight: 400;
+}
+
+.footer-card-para {
+    color: black;
+    font-family: "sans-serif" ;
+    font-weight: 100;
+}
+
+
+
+.follow-us-icon-container {
+    background-color: white;
+    width: 50px;
+    height: 45px;
+    border-radius: 50px;
+    margin: 10px;
+    padding-top: 1px;
+    box-shadow: 1px 1px 1px 1px  #c3cdde;
+}
+
+.icon {
+    color: red;
+    font-size: 25px;
+    height: 25px;
+    width: 25px;
+    margin: 10px;
+}
+
+
+.logo-icon-card{
+    height: 150px;
+    width: 400px;
+    margin: 20px;
+    padding: 10px;
+    background-color: transparent;
+}
+.logo-icon{
+    margin: 10px;
+    padding: 10px;
+}
